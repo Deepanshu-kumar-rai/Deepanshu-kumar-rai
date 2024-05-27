@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Kumar Rai</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I am a dedicated and enthusiastic 🎓3rd Year BTech Student at BVCOE with a strong foundation in Java, Data Structures and Algorithms (DSA), and web development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
