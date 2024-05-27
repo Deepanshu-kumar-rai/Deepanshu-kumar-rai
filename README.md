@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-kumar-rai&show_icons=true&locale=en&layout=compact" alt="deepanshu-kumar-rai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-kumar-rai&show_icons=true&locale=en" alt="deepanshu-kumar-rai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-kumar-rai&" alt="deepanshu-kumar-rai" /></p>
